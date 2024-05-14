@@ -1,4 +1,3 @@
-```markdown
 # Career Portfolio Template
 
 This GitHub repository serves as a comprehensive career portfolio, showcasing a collection of projects built on the Microsoft Power Platform and leveraging AI capabilities. The repository is designed to highlight your expertise, experience, and innovative solutions developed using tools like Power Apps, Power Automate, Power BI, and AI technologies.
@@ -15,4 +14,3 @@ This repository aims to provide potential employers, clients, and collaborators 
 
 ## Usage
 Feel free to explore the repository, review the projects, and reach out for collaborations or inquiries. This template can also be forked and customized to create your own career portfolio.
-```
